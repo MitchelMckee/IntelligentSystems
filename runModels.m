@@ -2,6 +2,7 @@ filename = "apple01-03.txt";
 %filename = "apple04-06.txt";
 %filename = "apple07-09.txt";
 %filename = "apple2.txt";
+%filename = "allApple.txt";
 %filename = "virginTweets.txt"; 
 %filename = "americanAirwaysTweets.txt";
 %filename  = "unitedTweets";
